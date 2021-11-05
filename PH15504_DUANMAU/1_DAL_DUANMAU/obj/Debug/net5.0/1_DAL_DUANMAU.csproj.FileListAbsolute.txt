@@ -1,0 +1,45 @@
+C:\Users\PC\source\repos\1_DAL_DUANMAU\1_DAL_DUANMAU\obj\Debug\net5.0\1_DAL_DUANMAU.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\1_DAL_DUANMAU\1_DAL_DUANMAU\obj\Debug\net5.0\1_DAL_DUANMAU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\1_DAL_DUANMAU\1_DAL_DUANMAU\obj\Debug\net5.0\1_DAL_DUANMAU.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\1_DAL_DUANMAU\1_DAL_DUANMAU\obj\Debug\net5.0\1_DAL_DUANMAU.AssemblyInfo.cs
+C:\Users\PC\source\repos\1_DAL_DUANMAU\1_DAL_DUANMAU\obj\Debug\net5.0\1_DAL_DUANMAU.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\1_DAL_DUANMAU\1_DAL_DUANMAU\bin\Debug\net5.0\1_DAL_DUANMAU.deps.json
+C:\Users\PC\source\repos\1_DAL_DUANMAU\1_DAL_DUANMAU\bin\Debug\net5.0\1_DAL_DUANMAU.runtimeconfig.json
+C:\Users\PC\source\repos\1_DAL_DUANMAU\1_DAL_DUANMAU\bin\Debug\net5.0\1_DAL_DUANMAU.runtimeconfig.dev.json
+C:\Users\PC\source\repos\1_DAL_DUANMAU\1_DAL_DUANMAU\bin\Debug\net5.0\1_DAL_DUANMAU.dll
+C:\Users\PC\source\repos\1_DAL_DUANMAU\1_DAL_DUANMAU\bin\Debug\net5.0\ref\1_DAL_DUANMAU.dll
+C:\Users\PC\source\repos\1_DAL_DUANMAU\1_DAL_DUANMAU\bin\Debug\net5.0\1_DAL_DUANMAU.pdb
+C:\Users\PC\source\repos\1_DAL_DUANMAU\1_DAL_DUANMAU\obj\Debug\net5.0\1_DAL_DUANMAU.dll
+C:\Users\PC\source\repos\1_DAL_DUANMAU\1_DAL_DUANMAU\obj\Debug\net5.0\ref\1_DAL_DUANMAU.dll
+C:\Users\PC\source\repos\1_DAL_DUANMAU\1_DAL_DUANMAU\obj\Debug\net5.0\1_DAL_DUANMAU.pdb
+C:\Users\PC\source\repos\1_DAL_DUANMAU\1_DAL_DUANMAU\obj\Debug\net5.0\1_DAL_DUANMAU.genruntimeconfig.cache
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\1_DAL_DUANMAU\bin\Debug\net5.0\1_DAL_DUANMAU.deps.json
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\1_DAL_DUANMAU\bin\Debug\net5.0\1_DAL_DUANMAU.runtimeconfig.json
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\1_DAL_DUANMAU\bin\Debug\net5.0\1_DAL_DUANMAU.runtimeconfig.dev.json
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\1_DAL_DUANMAU\bin\Debug\net5.0\1_DAL_DUANMAU.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\1_DAL_DUANMAU\bin\Debug\net5.0\ref\1_DAL_DUANMAU.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\1_DAL_DUANMAU\bin\Debug\net5.0\1_DAL_DUANMAU.pdb
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\1_DAL_DUANMAU\obj\Debug\net5.0\1_DAL_DUANMAU.csproj.AssemblyReference.cache
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\1_DAL_DUANMAU\obj\Debug\net5.0\1_DAL_DUANMAU.GeneratedMSBuildEditorConfig.editorconfig
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\1_DAL_DUANMAU\obj\Debug\net5.0\1_DAL_DUANMAU.AssemblyInfoInputs.cache
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\1_DAL_DUANMAU\obj\Debug\net5.0\1_DAL_DUANMAU.AssemblyInfo.cs
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\1_DAL_DUANMAU\obj\Debug\net5.0\1_DAL_DUANMAU.csproj.CoreCompileInputs.cache
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\1_DAL_DUANMAU\obj\Debug\net5.0\1_DAL_DUANMAU.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\1_DAL_DUANMAU\obj\Debug\net5.0\ref\1_DAL_DUANMAU.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\1_DAL_DUANMAU\obj\Debug\net5.0\1_DAL_DUANMAU.pdb
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\1_DAL_DUANMAU\obj\Debug\net5.0\1_DAL_DUANMAU.genruntimeconfig.cache
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\1_DAL_DUANMAU\bin\Debug\net5.0\1_DAL_DUANMAU.deps.json
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\1_DAL_DUANMAU\bin\Debug\net5.0\1_DAL_DUANMAU.runtimeconfig.json
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\1_DAL_DUANMAU\bin\Debug\net5.0\1_DAL_DUANMAU.runtimeconfig.dev.json
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\1_DAL_DUANMAU\bin\Debug\net5.0\1_DAL_DUANMAU.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\1_DAL_DUANMAU\bin\Debug\net5.0\ref\1_DAL_DUANMAU.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\1_DAL_DUANMAU\bin\Debug\net5.0\1_DAL_DUANMAU.pdb
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\1_DAL_DUANMAU\obj\Debug\net5.0\1_DAL_DUANMAU.csproj.AssemblyReference.cache
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\1_DAL_DUANMAU\obj\Debug\net5.0\1_DAL_DUANMAU.GeneratedMSBuildEditorConfig.editorconfig
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\1_DAL_DUANMAU\obj\Debug\net5.0\1_DAL_DUANMAU.AssemblyInfoInputs.cache
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\1_DAL_DUANMAU\obj\Debug\net5.0\1_DAL_DUANMAU.AssemblyInfo.cs
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\1_DAL_DUANMAU\obj\Debug\net5.0\1_DAL_DUANMAU.csproj.CoreCompileInputs.cache
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\1_DAL_DUANMAU\obj\Debug\net5.0\1_DAL_DUANMAU.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\1_DAL_DUANMAU\obj\Debug\net5.0\ref\1_DAL_DUANMAU.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\1_DAL_DUANMAU\obj\Debug\net5.0\1_DAL_DUANMAU.pdb
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\1_DAL_DUANMAU\obj\Debug\net5.0\1_DAL_DUANMAU.genruntimeconfig.cache

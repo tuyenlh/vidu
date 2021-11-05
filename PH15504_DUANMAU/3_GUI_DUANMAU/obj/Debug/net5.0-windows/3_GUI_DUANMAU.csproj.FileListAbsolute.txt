@@ -1,0 +1,193 @@
+C:\Users\PC\source\repos\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\3_GUI_DUANMAU.exe
+C:\Users\PC\source\repos\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\3_GUI_DUANMAU.deps.json
+C:\Users\PC\source\repos\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\3_GUI_DUANMAU.runtimeconfig.json
+C:\Users\PC\source\repos\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\3_GUI_DUANMAU.runtimeconfig.dev.json
+C:\Users\PC\source\repos\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\3_GUI_DUANMAU.dll
+C:\Users\PC\source\repos\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\ref\3_GUI_DUANMAU.dll
+C:\Users\PC\source\repos\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\3_GUI_DUANMAU.pdb
+C:\Users\PC\source\repos\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\PC\source\repos\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\PC\source\repos\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\PC\source\repos\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PC\source\repos\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PC\source\repos\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PC\source\repos\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PC\source\repos\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\PC\source\repos\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PC\source\repos\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\PC\source\repos\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PC\source\repos\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PC\source\repos\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\PC\source\repos\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PC\source\repos\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\PC\source\repos\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\PC\source\repos\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\PC\source\repos\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PC\source\repos\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\PC\source\repos\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PC\source\repos\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PC\source\repos\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PC\source\repos\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\PC\source\repos\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PC\source\repos\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\PC\source\repos\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PC\source\repos\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PC\source\repos\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\source\repos\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\PC\source\repos\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\source\repos\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\PC\source\repos\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\source\repos\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\PC\source\repos\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\source\repos\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\PC\source\repos\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\PC\source\repos\1_DAL_DUANMAU\3_GUI_DUANMAU\obj\Debug\net5.0-windows\3_GUI_DUANMAU.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\1_DAL_DUANMAU\3_GUI_DUANMAU\obj\Debug\net5.0-windows\3_GUI_DUANMAU.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\1_DAL_DUANMAU\3_GUI_DUANMAU\obj\Debug\net5.0-windows\3_GUI_DUANMAU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\1_DAL_DUANMAU\3_GUI_DUANMAU\obj\Debug\net5.0-windows\3_GUI_DUANMAU.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\1_DAL_DUANMAU\3_GUI_DUANMAU\obj\Debug\net5.0-windows\3_GUI_DUANMAU.AssemblyInfo.cs
+C:\Users\PC\source\repos\1_DAL_DUANMAU\3_GUI_DUANMAU\obj\Debug\net5.0-windows\3_GUI_DUANMAU.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\1_DAL_DUANMAU\3_GUI_DUANMAU\obj\Debug\net5.0-windows\3_GUI_DUANMAU.csproj.CopyComplete
+C:\Users\PC\source\repos\1_DAL_DUANMAU\3_GUI_DUANMAU\obj\Debug\net5.0-windows\3_GUI_DUANMAU.dll
+C:\Users\PC\source\repos\1_DAL_DUANMAU\3_GUI_DUANMAU\obj\Debug\net5.0-windows\ref\3_GUI_DUANMAU.dll
+C:\Users\PC\source\repos\1_DAL_DUANMAU\3_GUI_DUANMAU\obj\Debug\net5.0-windows\3_GUI_DUANMAU.pdb
+C:\Users\PC\source\repos\1_DAL_DUANMAU\3_GUI_DUANMAU\obj\Debug\net5.0-windows\3_GUI_DUANMAU.genruntimeconfig.cache
+C:\Users\PC\source\repos\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\1_DAL_DUANMAU.dll
+C:\Users\PC\source\repos\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\2_BUS_DUANMAU.dll
+C:\Users\PC\source\repos\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\2_BUS_DUANMAU.pdb
+C:\Users\PC\source\repos\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\1_DAL_DUANMAU.pdb
+C:\Users\PC\source\repos\1_DAL_DUANMAU\3_GUI_DUANMAU\obj\Debug\net5.0-windows\_3_GUI_DUANMAU.formLI.resources
+C:\Users\PC\source\repos\1_DAL_DUANMAU\3_GUI_DUANMAU\obj\Debug\net5.0-windows\_3_GUI_DUANMAU.FormMain.resources
+C:\Users\PC\source\repos\1_DAL_DUANMAU\3_GUI_DUANMAU\obj\Debug\net5.0-windows\_3_GUI_DUANMAU.FormDoimatkhau.resources
+C:\Users\PC\source\repos\1_DAL_DUANMAU\3_GUI_DUANMAU\obj\Debug\net5.0-windows\_3_GUI_DUANMAU.FormQuanLyNhanVien.resources
+C:\Users\PC\source\repos\1_DAL_DUANMAU\3_GUI_DUANMAU\obj\Debug\net5.0-windows\_3_GUI_DUANMAU.FormQuanLyKhachHang.resources
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\3_GUI_DUANMAU\obj\Debug\net5.0-windows\3_GUI_DUANMAU.csproj.AssemblyReference.cache
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\3_GUI_DUANMAU\obj\Debug\net5.0-windows\_3_GUI_DUANMAU.FormDoimatkhau.resources
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\3_GUI_DUANMAU\obj\Debug\net5.0-windows\_3_GUI_DUANMAU.formLI.resources
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\3_GUI_DUANMAU\obj\Debug\net5.0-windows\_3_GUI_DUANMAU.FormMain.resources
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\3_GUI_DUANMAU\obj\Debug\net5.0-windows\_3_GUI_DUANMAU.FormQuanLyKhachHang.resources
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\3_GUI_DUANMAU\obj\Debug\net5.0-windows\_3_GUI_DUANMAU.FormQuanLyNhanVien.resources
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\3_GUI_DUANMAU\obj\Debug\net5.0-windows\3_GUI_DUANMAU.csproj.GenerateResource.cache
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\3_GUI_DUANMAU\obj\Debug\net5.0-windows\3_GUI_DUANMAU.GeneratedMSBuildEditorConfig.editorconfig
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\3_GUI_DUANMAU\obj\Debug\net5.0-windows\3_GUI_DUANMAU.AssemblyInfoInputs.cache
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\3_GUI_DUANMAU\obj\Debug\net5.0-windows\3_GUI_DUANMAU.AssemblyInfo.cs
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\3_GUI_DUANMAU\obj\Debug\net5.0-windows\3_GUI_DUANMAU.csproj.CoreCompileInputs.cache
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\3_GUI_DUANMAU\obj\Debug\net5.0-windows\3_GUI_DUANMAU.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\3_GUI_DUANMAU\obj\Debug\net5.0-windows\ref\3_GUI_DUANMAU.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\3_GUI_DUANMAU\obj\Debug\net5.0-windows\3_GUI_DUANMAU.pdb
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\3_GUI_DUANMAU.exe
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\3_GUI_DUANMAU.deps.json
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\3_GUI_DUANMAU.runtimeconfig.json
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\3_GUI_DUANMAU.runtimeconfig.dev.json
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\3_GUI_DUANMAU.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\ref\3_GUI_DUANMAU.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\3_GUI_DUANMAU.pdb
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Humanizer.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\1_DAL_DUANMAU.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\2_BUS_DUANMAU.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\2_BUS_DUANMAU.pdb
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\1_DAL_DUANMAU.pdb
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\3_GUI_DUANMAU\obj\Debug\net5.0-windows\3_GUI_DUANMAU.csproj.CopyComplete
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\3_GUI_DUANMAU\obj\Debug\net5.0-windows\3_GUI_DUANMAU.genruntimeconfig.cache
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\1_DAL_DUANMAU\3_GUI_DUANMAU\obj\Debug\net5.0-windows\_3_GUI_DUANMAU.FormQuanLySanPham.resources
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\3_GUI_DUANMAU.exe
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\3_GUI_DUANMAU.deps.json
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\3_GUI_DUANMAU.runtimeconfig.json
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\3_GUI_DUANMAU.runtimeconfig.dev.json
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\3_GUI_DUANMAU.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\ref\3_GUI_DUANMAU.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\3_GUI_DUANMAU.pdb
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Humanizer.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\1_DAL_DUANMAU.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\2_BUS_DUANMAU.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\2_BUS_DUANMAU.pdb
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\3_GUI_DUANMAU\bin\Debug\net5.0-windows\1_DAL_DUANMAU.pdb
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\3_GUI_DUANMAU\obj\Debug\net5.0-windows\3_GUI_DUANMAU.csproj.AssemblyReference.cache
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\3_GUI_DUANMAU\obj\Debug\net5.0-windows\_3_GUI_DUANMAU.FormDoimatkhau.resources
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\3_GUI_DUANMAU\obj\Debug\net5.0-windows\_3_GUI_DUANMAU.formLI.resources
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\3_GUI_DUANMAU\obj\Debug\net5.0-windows\_3_GUI_DUANMAU.FormMain.resources
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\3_GUI_DUANMAU\obj\Debug\net5.0-windows\_3_GUI_DUANMAU.FormQuanLyKhachHang.resources
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\3_GUI_DUANMAU\obj\Debug\net5.0-windows\_3_GUI_DUANMAU.FormQuanLyNhanVien.resources
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\3_GUI_DUANMAU\obj\Debug\net5.0-windows\_3_GUI_DUANMAU.FormQuanLySanPham.resources
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\3_GUI_DUANMAU\obj\Debug\net5.0-windows\_3_GUI_DUANMAU.FormThongKe.resources
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\3_GUI_DUANMAU\obj\Debug\net5.0-windows\3_GUI_DUANMAU.csproj.GenerateResource.cache
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\3_GUI_DUANMAU\obj\Debug\net5.0-windows\3_GUI_DUANMAU.GeneratedMSBuildEditorConfig.editorconfig
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\3_GUI_DUANMAU\obj\Debug\net5.0-windows\3_GUI_DUANMAU.AssemblyInfoInputs.cache
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\3_GUI_DUANMAU\obj\Debug\net5.0-windows\3_GUI_DUANMAU.AssemblyInfo.cs
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\3_GUI_DUANMAU\obj\Debug\net5.0-windows\3_GUI_DUANMAU.csproj.CoreCompileInputs.cache
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\3_GUI_DUANMAU\obj\Debug\net5.0-windows\3_GUI_DUANMAU.csproj.CopyComplete
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\3_GUI_DUANMAU\obj\Debug\net5.0-windows\3_GUI_DUANMAU.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\3_GUI_DUANMAU\obj\Debug\net5.0-windows\ref\3_GUI_DUANMAU.dll
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\3_GUI_DUANMAU\obj\Debug\net5.0-windows\3_GUI_DUANMAU.pdb
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\3_GUI_DUANMAU\obj\Debug\net5.0-windows\3_GUI_DUANMAU.genruntimeconfig.cache
+C:\HỌC TẬP\KÌ 4\Dự Án Mẫu\PH15504_DUANMAU\3_GUI_DUANMAU\obj\Debug\net5.0-windows\_3_GUI_DUANMAU.Properties.Resources.resources

@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>_2_BUS_DUANMAU</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\1_DAL_DUANMAU\1_DAL_DUANMAU.csproj" />
+  </ItemGroup>
+
+</Project>
